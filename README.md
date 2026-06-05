@@ -1,78 +1,109 @@
-# Esvin Joshua
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi%20there,%20I'm%20Esvin%20Joshua!&fontSize=50&animation=fadeIn" />
 
-> "Free Software is about freedom, not price"
->
-> — Richard Stallman
+  <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack+Developer;Open+Source+Enthusiast;Student;Python,+Flutter,+%26+Web&font=Fira+Code&center=true&width=500&height=50&color=3b82f6&vCenter=true&size=22" />
+  
+  <p align="center">
+    <i>"Free Software is about freedom, not price" — Richard Stallman</i>
+  </p>
 
-# <img src="https://readme-typing-svg.demolab.com/?lines=Developer;Student&size=27&width=500&height=50" />
+  <p align="center">
+    <a href="https://www.linkedin.com/in/esvin-joshua/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="mailto:Joshua.Esvin312@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    <a href="https://www.instagram.com/esvinjoshua"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
+  </p>
+</div>
 
-## About Me 🚀
+---
 
-I am currently learning Flutter and have a strong proficiency with computers. My primary focus is on Python, which I use for a variety of tasks including machine learning, data visualization, and web development. I am also experienced in full-stack development. In my free time, I enjoy playing the piano and occasionally composing music. I am a strong advocate for open source and free software, and I am always looking for ways to contribute to the community.
+### 🚀 About Me
+I am a passionate developer with a strong proficiency in building full-stack applications, data visualization, and machine learning. 
+My primary focus is on Python, web development, and Flutter. I'm a strong advocate for open source and free software. In my free time, I enjoy playing the piano and occasionally composing music.
 
-## Languages 🧩
+---
 
-[![Python](https://img.shields.io/badge/Python-%233776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)](https://www.python.org/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![C](https://img.shields.io/badge/C-%23A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=black)](https://www.learn-c.org/)
-[![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?&style=for-the-badge&logo=Java&logoColor=white)](https://www.java.com/en/)
-[![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?&style=for-the-badge&logo=Dart&logoColor=white)](https://dart.dev/)
+### 📦 Featured Open Source Libraries
 
-### Other Languages 🔦
+Here are my published NPM libraries that I actively maintain:
 
-[![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?&style=for-the-badge&logo=Markdown&logoColor=white)](https://www.markdownguide.org/)
-[![JSON](https://img.shields.io/badge/JSON-%23000000.svg?&style=for-the-badge&logo=JSON&logoColor=blue)](https://www.json.org/json-en.html)
+<div align="center">
 
-## Technologies & Frameworks 🔬 ⚒️
+| Package | NPM Version | Downloads |
+|---------|-------------|-----------|
+| [**@3sv1n/lrc**](https://www.npmjs.com/package/@3sv1n/lrc) | [![npm version](https://img.shields.io/npm/v/@3sv1n/lrc.svg?style=flat-square)](https://www.npmjs.com/package/@3sv1n/lrc) | [![npm downloads](https://img.shields.io/npm/dt/@3sv1n/lrc.svg?style=flat-square)](https://www.npmjs.com/package/@3sv1n/lrc) |
+| [**@3sv1n/multitrack**](https://www.npmjs.com/package/@3sv1n/multitrack) | [![npm version](https://img.shields.io/npm/v/@3sv1n/multitrack.svg?style=flat-square)](https://www.npmjs.com/package/@3sv1n/multitrack) | [![npm downloads](https://img.shields.io/npm/dt/@3sv1n/multitrack.svg?style=flat-square)](https://www.npmjs.com/package/@3sv1n/multitrack) |
 
-[![React](https://img.shields.io/badge/React-%2361DAFB.svg?&style=for-the-badge&logo=React&logoColor=black)](https://reactjs.org/)
-[![Django](https://img.shields.io/badge/Django-%23092E20.svg?&style=for-the-badge&logo=Django&logoColor=white)](https://www.djangoproject.com/)
-[![Flask](https://img.shields.io/badge/Flask-%23000.svg?&style=for-the-badge&logo=Flask&logoColor=white)](https://flask.palletsprojects.com/)
-[![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white)](https://flutter.dev/)
-[![Git](https://img.shields.io/badge/Git-%23F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)](https://git-scm.com/)
-[![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?&style=for-the-badge&logo=Docker&logoColor=white)](https://www.docker.com/)
-[![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?&style=for-the-badge&logo=Firebase&logoColor=black)](https://firebase.google.com/)
-[![SQLite](https://img.shields.io/badge/SQLite-%23003B57.svg?&style=for-the-badge&logo=SQLite&logoColor=white)](https://www.sqlite.org/index.html)
-[![Heroku](https://img.shields.io/badge/Heroku-%23430098.svg?&style=for-the-badge&logo=Heroku&logoColor=white)](https://www.heroku.com/)
-[![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?&style=for-the-badge&logo=Node.js&logoColor=white)](https://nodejs.org/en/)
-[![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?&style=for-the-badge&logo=Bootstrap&logoColor=white)](https://getbootstrap.com/)
+</div>
 
-## OS Experience 💻
+---
 
-[![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?&style=for-the-badge&logo=Linux&logoColor=black)](https://www.linux.org/)
-[![Windows](https://img.shields.io/badge/Windows-%230078D6.svg?&style=for-the-badge&logo=Windows&logoColor=white)](https://www.microsoft.com/en-in/windows)
-[![MacOS](https://img.shields.io/badge/MacOS-%23999999.svg?&style=for-the-badge&logo=Apple&logoColor=white)](https://www.apple.com/in/macos/)
+### 💻 Technologies & Tools
 
-## Tools 🛠️
+<details open>
+<summary><b>Languages & Frameworks</b></summary>
+<br>
 
-[![PyCharm](https://img.shields.io/badge/PyCharm-%23000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=green)](https://www.jetbrains.com/pycharm/)
-[![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)](https://jupyter.org/)
-[![GitKraken](https://img.shields.io/badge/GitKraken-%236E5494.svg?&style=for-the-badge&logo=GitKraken&logoColor=white)](https://www.gitkraken.com/)
-[![Netlify](https://img.shields.io/badge/Netlify-%2300C7B7.svg?&style=for-the-badge&logo=Netlify&logoColor=white)](https://www.netlify.com/)
-[![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?&style=for-the-badge&logo=MongoDB&logoColor=white)](https://www.mongodb.com/)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
-## My Projects 💼
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+</details>
 
-[Org Tool](https://github.com/3sv1n/Organisation-Management-Tool)
-[HiveMind](https://github.com/3sv1n/HiveMind)
-[Nudity Detection](https://github.com/3sv1n/nudity_detection)
-[Bank Management System](https://github.com/3sv1n/Bank-Management-System)
+<details open>
+<summary><b>Tools & Databases</b></summary>
+<br>
 
-## GitHub Stats 📈
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+</details>
 
-[![Profile Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=3sv1n&theme=vue&background=1F2337)](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=3sv1n&theme=vue&background=1F2937)
+---
 
+### 📊 GitHub Stats
 
-## Connect with me 🌐
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=3sv1n&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="3sv1n's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=3sv1n&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%" />
+</div>
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=black)](https://www.instagram.com/esvinjoshua)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/esvin-joshua/)
-[![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?&style=for-the-badge&logo=Gmail&logoColor=white)](mailto:Joshua.Esvin312@gmail.com)
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=3sv1n&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
+</div>
 
-Feel free to reach out for collaborations, open-source projects, or a quick chat!
+---
 
-## Thanks for stopping by! 😄
+### 📌 Top Projects
 
-<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="350" height="300" alt="cat waving gif" />
+<div align="center">
+  <a href="https://github.com/3sv1n/stem-packages">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=3sv1n&repo=stem-packages&theme=radical&hide_border=true&bg_color=0D1117" />
+  </a>
+  <a href="https://github.com/3sv1n/HiveMind">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=3sv1n&repo=HiveMind&theme=radical&hide_border=true&bg_color=0D1117" />
+  </a>
+  <a href="https://github.com/3sv1n/Organisation-Management-Tool">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=3sv1n&repo=Organisation-Management-Tool&theme=radical&hide_border=true&bg_color=0D1117" />
+  </a>
+  <a href="https://github.com/3sv1n/nudity_detection">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=3sv1n&repo=nudity_detection&theme=radical&hide_border=true&bg_color=0D1117" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="150" alt="cat waving gif" />
+  <p>Thanks for stopping by!</p>
+</div>
