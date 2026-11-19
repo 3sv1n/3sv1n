@@ -6,6 +6,14 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Building+full-stack+apps+with+Python+%26+Flutter;Publishing+open+source+libraries+on+NPM;Exploring+data+viz+%26+machine+learning;Playing+piano+%26+composing+music&font=Fira+Code&center=true&width=620&height=45&color=3b82f6&vCenter=true&size=20&pause=1200" alt="Typing animation" />
 </a>
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="gitmas/tree.gif" />
+    <source media="(prefers-color-scheme: light)" srcset="gitmas/tree-light.gif" />
+    <img src="gitmas/tree-light.gif" width="420" alt="My Merry Gitmas tree" />
+  </picture>
+</p>
+
 <br/>
 
 <i>"Free Software is about freedom, not price." — Richard Stallman</i>
@@ -105,18 +113,6 @@ Published on NPM and actively maintained:
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=3sv1n&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </div>
-
----
-
-## 🎄 Merry Gitmas
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="gitmas/tree.gif" />
-    <source media="(prefers-color-scheme: light)" srcset="gitmas/tree-light.gif" />
-    <img src="gitmas/tree-light.gif" width="420" alt="My Merry Gitmas tree" />
-  </picture>
-</p>
 
 ---
 
