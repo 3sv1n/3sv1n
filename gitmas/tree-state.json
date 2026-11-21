@@ -7,7 +7,7 @@
   "longestStreak": 39,
   "scale": 0.9303961666001134,
   "fullness": 0.7972696969170857,
-  "twinkle": 0.07,
+  "twinkle": 0.06,
   "weeks": [
     {
       "index": 0,
@@ -413,6 +413,6 @@
       "share": 0.05263157894736842
     }
   ],
-  "observedOn": "2026-11-19",
+  "observedOn": "2026-11-20",
   "demo": false
 }
