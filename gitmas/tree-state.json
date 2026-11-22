@@ -2,11 +2,11 @@
   "login": "3sv1n",
   "year": 2026,
   "seed": 1926384147,
-  "contributions": 952,
+  "contributions": 922,
   "activeWeeks": 45,
   "longestStreak": 39,
-  "scale": 0.9303961666001134,
-  "fullness": 0.7972696969170857,
+  "scale": 0.9286428074011345,
+  "fullness": 0.7958836422143355,
   "twinkle": 0.06,
   "weeks": [
     {
@@ -236,14 +236,14 @@
     {
       "index": 32,
       "startsOn": "2026-08-10",
-      "count": 28,
+      "count": 2,
       "observed": true,
       "longest": true
     },
     {
       "index": 33,
       "startsOn": "2026-08-17",
-      "count": 13,
+      "count": 9,
       "observed": true,
       "longest": true
     },
@@ -413,6 +413,6 @@
       "share": 0.05263157894736842
     }
   ],
-  "observedOn": "2026-11-20",
+  "observedOn": "2026-11-21",
   "demo": false
 }
